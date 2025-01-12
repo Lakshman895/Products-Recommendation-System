@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Recommendation System
 <img src="https://github.com/user-attachments/assets/3648bf7f-ae33-464c-ab22-eb7e00914ab2" alt="Product Recommendation System" width="800" height="350">
 
@@ -37,3 +38,6 @@ ook. The system analyzes product data and recommends similar products to users b
 - **Interactive Implementation**: Code and outputs are presented in an easy-to-understand Jupyter Notebook format.
 
 
+=======
+hello
+>>>>>>> 02bbacdd528c6f054b287db756b217f4aff3bf95
